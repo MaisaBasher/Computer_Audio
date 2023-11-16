@@ -1,0 +1,2 @@
+I used similar approach shown in class.
+I used different buttons for play, stop, reset, fastforward, rewind and used different sound effect for each of them. Clicking on each button play their respective sound effect along with music based on instruction, for example- Play button plays music , fastforward plays the music at rate 1.5.

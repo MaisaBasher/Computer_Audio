@@ -1,0 +1,1 @@
+I used high-pass filtering and volume-based Ducking. So whenever any of the voice clips are played by clicking on the button, I pass all frequencies above 5000Hz (removing frequencies below 5000) and I set the Background music (by musicGainGlide)  to 50%, and after the voice clip ends, the endListener unduck the background.
