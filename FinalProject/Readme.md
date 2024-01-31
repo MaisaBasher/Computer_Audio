@@ -1,9 +1,11 @@
+Typing is an important skill, especially for visually impaired people as it creates more learning and employment opportuni7es for them. There are several online pla:orms (Typio, JAWs) that provide audio instruc7ons to help visually impaired people learn typing. However, users s7ll face some issues while learning typing even with this technology like- lack of feedback based on learners' performance and maintenance of good body posture, etc. Therefore, I am designing a system that will ensure efficient, enjoyable, and healthy learning experiences for visually impaired people by considering users' performance (finger and hand movement) and body posture (back, neck, arm posi7on) and sonifying proper instruc7ons.
+
 
 
 <img width="1026" alt="Screen Shot 2024-01-30 at 8 20 26 PM" src="https://github.com/MaisaBasher/Computer_Audio/assets/47857402/ccc32daf-f982-4a4d-b5d4-e476050de501">
 
 
-User Manual
+User Manual:
 There are two modes for my Touch type project.
 1. Sensor Mode:
 Once the user clicks the “Lesson_With_SensorData” buDon, the lesson plan will start playing.
