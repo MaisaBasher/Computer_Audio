@@ -1,0 +1,83 @@
+[
+  {
+    "MusleInvolved": "Shoulder_Neck", 
+    "type": "Craniovertebral_angle",
+    "timestamp": 100,
+    "angle" : 56,
+    "note": "",
+    "Key": "u",
+    "Input": "u",
+    "flag": "true",
+    "finger":"index"
+  },
+  {
+    "MusleInvolved": "ear_eye",
+    "type": "Sagittal_head_tilt",
+    "timestamp": 400,
+    "angle" : 89,
+    "note": "",
+    "Key": "r",
+    "Input": "d",
+    "flag": "true",
+    "finger":"index"
+  },
+  {
+    "MusleInvolved": "Shoulder",
+    "type": "Sagittal_shoulderC7_angle", 
+    "timestamp": 800,
+    "angle" : 22,
+    "note": "",
+    "Key": "k",
+    "Input": "k",
+    "flag": "false",
+    "finger":"index"
+  },
+
+  {
+    "MusleInvolved": "Head",
+    "type": "Coronal_head_tilt", 
+    "timestamp": 1200,
+    "angle" : 20,
+    "note": "",
+    "Key": "d",
+    "Input": "d",
+    "flag": "true",
+    "finger":"index"
+  },
+  
+  {
+    "MusleInvolved": "Shoulder",
+    "type": "Coronal_shoulder_angle", 
+    "timestamp": 1600,
+    "angle" : 89,
+    "note": "",
+    "Key": "e",
+    "Input": "e",
+    "flag": "true",
+    "finger":"index"
+  },
+  
+  {
+    "MusleInvolved": "Back",
+    "type": "Thoracic_kyphosis_angle", 
+    "timestamp": 2000,
+    "angle" : 20,
+    "note": "",
+    "Key": "i",
+    "Input": "i",
+    "flag": "true",
+    "finger":"index"
+  },
+  {
+    "MusleInvolved": "Hand",
+    "type": "hand_angle", 
+    "timestamp": 2400,
+    "angle" : 180,
+    "note": "",
+    "Key": "g",
+    "Input": "g",
+    "flag": "true",
+    "finger":"index"
+  }
+
+]
